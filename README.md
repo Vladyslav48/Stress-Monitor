@@ -1,10 +1,24 @@
-# Getting Started with Create React App
+# Stress Monitor App
+
+## Description
+
+An application that allows estimating users' stress measure based on the questionary poll and tracking the result via chart.
+
+## Technologies
+
+React, React Hooks, Bootstrap, JavaScript, HTML, CSS, Firebase(Backend: Authentification, Firestore Database).
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Installs all the necessary dependencies based on the package.json file.
 
 ### `npm start`
 
