@@ -1,4 +1,4 @@
-# Stress Monitor App
+# Stress Monitor
 
 ## Description
 
